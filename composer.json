@@ -1,0 +1,8 @@
+{
+    "require": {
+        "chrome-php/chrome": "^1.6",
+        "spatie/browsershot": "^3.54",
+        "urlbox/screenshots": "^2.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
